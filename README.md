@@ -31,7 +31,7 @@ El trabajo consiste en la configuración de un servidor GNU/Linux Debian con los
 ├── opt.tar.gz           # Directorio /opt
 ├── www_dir.tar.gz       # Directorio /www_dir
 ├── backup_dir.tar.gz    # Directorio /backup_dir
-└── var_part_aa, var_part_ab, var_part_ac, var_part_ad   # Directorio /var (splitteado en partes de 50MB)
+└── var_part_aa, var_part_ab, var_part_ac  # Directorio /var (splitteado en partes < 25MB)
 ```
 
 ---
