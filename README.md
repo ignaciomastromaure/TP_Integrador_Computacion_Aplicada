@@ -18,7 +18,6 @@ El trabajo consiste en la configuración de un servidor GNU/Linux Debian con los
 | Herman Cesar |
 | Luciana Fierro |
 | Roberto Mastromaure |
-| Omar Jeremias Palacios Toconas |
 
 ---
 
